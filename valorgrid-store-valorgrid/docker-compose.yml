@@ -1,7 +1,7 @@
 services:
   app_proxy:
     environment:
-      APP_HOST: valorgrid_app_1
+      APP_HOST: valorgrid-store-valorgrid_app_1
       APP_PORT: 1325
 
   app:
